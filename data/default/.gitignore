@@ -1,0 +1,8 @@
+# Ignorar arquivos de planilha para não commitar dados sensíveis
+*.xlsx
+*.xls
+*.csv
+
+# Manter apenas o README
+!README.md
+!.gitignore

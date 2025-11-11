@@ -1,0 +1,17 @@
+feat: Add automatic default spreadsheet loading functionality
+
+Implement a system to automatically load a default spreadsheet while still allowing additional file uploads. Key features:
+
+- Created data/default/ directory structure for default spreadsheet storage
+- Modified app.py to automatically detect and load planilha_padrao.xlsx from data/default/
+- Combines default spreadsheet with additional uploaded files seamlessly
+- Added UI indicator showing when default spreadsheet is active
+- Enhanced file processing details to show source of each file (default vs uploaded)
+- Added .gitignore to prevent committing sensitive spreadsheet data
+- Created comprehensive README with usage instructions
+
+Users can now place a default spreadsheet that loads automatically on startup, with the option to upload additional files that will be merged with the default data.
+
+🤖 Generated with [Claude Code](https://claude.com/claude-code)
+
+Co-Authored-By: Claude <noreply@anthropic.com>

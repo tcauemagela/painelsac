@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(start http://localhost:8503)",
+      "Bash(git config:*)",
+      "Bash(gh auth status)",
+      "Bash(winget install:*)",
+      "Bash(curl:*)",
+      "Bash(git init:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(python remove_comments.py:*)",
+      "Bash(git rebase:*)",
+      "Bash(echo:*)",
+      "Bash(git reset:*)",
+      "Bash(git pull:*)",
+      "Bash(gh repo view:*)",
+      "Bash(git remote add:*)",
+      "Bash(git checkout:*)",
+      "Bash(git push:*)",
+      "Bash(python -m py_compile:*)",
+      "Bash(git branch:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

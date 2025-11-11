@@ -1,0 +1,16 @@
+0000000000000000000000000000000000000000 16e9c3edad9a009f18de136b43cb0964b61b85f8 cauemmo <cauemagela@gmail.com> 1762569574 -0300	commit (initial): Initial commit: SAC NIP project with SOLID architecture
+16e9c3edad9a009f18de136b43cb0964b61b85f8 cc4381e6c977d7195da429ac0e699d88c5246cc5 cauemmo <cauemagela@gmail.com> 1762570392 -0300	commit: Add chromium for Kaleido support
+cc4381e6c977d7195da429ac0e699d88c5246cc5 e6b61466140bbac1ed579027ba7d44e71cee8669 cauemmo <cauemagela@gmail.com> 1762724653 -0300	commit: Refactor: Remove comments and rewrite README as technical documentation
+e6b61466140bbac1ed579027ba7d44e71cee8669 e6b61466140bbac1ed579027ba7d44e71cee8669 cauemmo <cauemagela@gmail.com> 1762724854 -0300	reset: moving to HEAD
+e6b61466140bbac1ed579027ba7d44e71cee8669 16e9c3edad9a009f18de136b43cb0964b61b85f8 cauemmo <cauemagela@gmail.com> 1762725211 -0300	reset: moving to 16e9c3e
+16e9c3edad9a009f18de136b43cb0964b61b85f8 c6630fe9693d970cba5c4234f12ec07496424da2 cauemmo <cauemagela@gmail.com> 1762725223 -0300	commit (amend): feat: Implement ML-based complaint classification and analysis system
+c6630fe9693d970cba5c4234f12ec07496424da2 b560bb5723d0a853198ddf89831e9e55711d8b36 cauemmo <cauemagela@gmail.com> 1762725894 -0300	commit: fix: Resolve module import path for Streamlit Cloud deployment
+b560bb5723d0a853198ddf89831e9e55711d8b36 b560bb5723d0a853198ddf89831e9e55711d8b36 cauemmo <cauemagela@gmail.com> 1762725964 -0300	reset: moving to HEAD
+b560bb5723d0a853198ddf89831e9e55711d8b36 18c8aaca1492d9c54a18f1ee06205bfebe2b65b7 cauemmo <cauemagela@gmail.com> 1762725965 -0300	pull --rebase (start): checkout 18c8aaca1492d9c54a18f1ee06205bfebe2b65b7
+18c8aaca1492d9c54a18f1ee06205bfebe2b65b7 69616a963f44eb927f65ce83539d3609195ba6fa cauemmo <cauemagela@gmail.com> 1762725965 -0300	pull --rebase (pick): fix: Resolve module import path for Streamlit Cloud deployment
+69616a963f44eb927f65ce83539d3609195ba6fa 69616a963f44eb927f65ce83539d3609195ba6fa cauemmo <cauemagela@gmail.com> 1762725965 -0300	pull --rebase (finish): returning to refs/heads/master
+69616a963f44eb927f65ce83539d3609195ba6fa 6c9120b205aa6ba989910bb917fd9d8b9b0d3e00 cauemmo <cauemagela@gmail.com> 1762816655 -0300	commit: feat: Add percentage variation comparison feature and improve chart interactions
+6c9120b205aa6ba989910bb917fd9d8b9b0d3e00 492808a69509916d190f60c87769323dcde40890 cauemmo <cauemagela@gmail.com> 1762821612 -0300	commit: fix: Auto-display period variations with proper Brazilian date formatting
+492808a69509916d190f60c87769323dcde40890 d297b8b4d69ef5b8b8c49f2d5139630c446b6580 cauemmo <cauemagela@gmail.com> 1762822094 -0300	commit: feat: Implement automatic classification on file upload and remove manual buttons
+d297b8b4d69ef5b8b8c49f2d5139630c446b6580 1b4e282e05e030b168e5e40a734927e43107a11a cauemmo <cauemagela@gmail.com> 1762883606 -0300	commit: feat: Add percentage variation labels between monthly data points
+1b4e282e05e030b168e5e40a734927e43107a11a 9a3ba76336bbda7d1e0cd5121145183cebdb24f0 cauemmo <cauemagela@gmail.com> 1762885682 -0300	commit: feat: Add automatic default spreadsheet loading functionality
