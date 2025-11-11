@@ -1,8 +1,11 @@
-# Ignorar arquivos de planilha para não commitar dados sensíveis
+# Permitir a planilha padrão
+!planilha_padrao.xlsx
+
+# Ignorar outros arquivos de planilha
 *.xlsx
 *.xls
 *.csv
 
-# Manter apenas o README
+# Manter README e gitignore
 !README.md
 !.gitignore
